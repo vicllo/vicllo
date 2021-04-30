@@ -30,6 +30,8 @@
 
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35rem" src="https://avatars.githubusercontent.com/u/667583?s=200&v=4"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+
 ***
 
 <br />
