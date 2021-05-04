@@ -29,6 +29,15 @@
 
 <br>
 
+<br>
+
+📈 My discord bot <br />
+<p align="center">
+   <a href="https://top.gg/bot/689934968285298808">
+  <img src="https://top.gg/api/widget/689934968285298808.svg" alt="Bot Python" />
+  </a>
+ </p>
+
 
 **Languages and Tools**
 
