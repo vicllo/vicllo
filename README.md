@@ -5,8 +5,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on `VAC-conquest`.
-- 🌱  I’m currently learning game theory. 
+- 👨🏽‍💻  I’m currently working on `Psup-Tools`.
+- 🌱  I’m currently learning Pyside6. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: Axiome#5441 on Discord.
 
