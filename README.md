@@ -5,8 +5,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on `Psup-Tools`.
-- 🌱  I’m currently learning Pyside6. 
+- 👨🏽‍💻  I’m currently working on `nothing`.
+- 🌱  I’m currently learning OCaml. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: Axiome#5441 on Discord.
 
@@ -22,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicllo&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br>
 
@@ -41,7 +40,7 @@
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35rem" src="https://avatars.githubusercontent.com/u/667583?s=200&v=4"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/f5a57d438b9deec8a209ade5fea3977349ffa2db/topics/ocaml/ocaml.png"></code>
 ***
 
 <br />
