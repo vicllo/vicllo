@@ -1,11 +1,7 @@
-### Hi there 👋
-
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm vicllo</a></h2>
+<h2 align="center">Hey, I'm vicllo</a></h2>
 
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻  I’m currently working on `nothing`.
+<!-- - 👨🏽‍💻  I’m currently working on `nothing`. -->
 - 🌱  I’m currently learning OCaml. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: Axiome#5441 on Discord.
